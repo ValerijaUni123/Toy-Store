@@ -1,0 +1,63 @@
+.yellow{
+    background-color: #9ACBD0;
+}
+#carosuel {
+    margin-top: 20px; /* Adjust this value as needed */
+    margin-bottom: 50px;
+  }
+  .carousel-img {
+    height: 500px; /* Or whatever height you want */
+    object-fit: cover; /* Keeps image nicely cropped and fills the space */
+  }
+.display-4, h2{
+    font-family: "Playwrite FR Moderne", cursive;
+    font-size: xx-large;
+    margin-top: 20px;
+    color: #006A71;
+}
+
+.images{
+    object-fit: cover;
+    height: 300px;
+}
+.bestsellers{
+    font-size:x-large;
+    font-family: "Libre Baskerville", serif;
+    font-family: "Playwrite FR Moderne", cursive;
+    color: #006A71;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 20px;
+    
+
+}
+.w3-container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.btn{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70%;
+}
+#about{
+    background-color: #F2EFE7;
+}
+.bd-placeholder-img{
+    margin-top: 50px;
+    
+}
+.pic{
+    object-fit: cover;
+}
+.under{
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.shop-now{
+    margin-left: 90%;
+}
